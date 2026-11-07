@@ -12,7 +12,7 @@ from data.questions import question_10_query, question_1_query, question_2_query
 # Kaizu ID'n — Profile → Settings → User ID
 # Skorunun Kaizu'ya gitmesi için 0 yerine kendi ID'ni yaz.
 # ─────────────────────────────────────────────
-USER_ID = 0  # ← BURAYI DEĞİŞTİR
+USER_ID =  966 # ← BURAYI DEĞİŞTİR
 
 
 def run_common_test(expected_data, tested_func):
